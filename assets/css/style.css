@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+}
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #f1f5f9;
+    line-height: 1.5rem;
+}
+.section{
+    padding: 5rem 0;
+    background-color: #ffff;
+}
+.section-title{
+    text-align: center;
+    text-transform: uppercase;
+}
+.title-underline{
+    height:0.25rem;
+    width: 5rem;
+    background-color: cornflowerblue;
+    margin: 0 auto;
+    margin-bottom: 2rem;
+    
+}
+.section-center{
+    width: 90vw;
+    margin: 0 auto;
+    max-width: 1170px;
+border: 2px solid blue;
+}
